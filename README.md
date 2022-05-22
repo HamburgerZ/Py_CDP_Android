@@ -6,12 +6,13 @@
 
 此code为解决博客上的问题的小demo。
 
-此code未对异常进行细致的处理，所以在运行代码前需各位朋友提前检查环境：
+此demo未对异常进行细致的处理，所以在运行代码前需各位朋友提前检查环境：
 1. python版本>3.0
 2. adb可正常连接android
 3. 采用USB进行adb连接
 4. adb shell 命令可正常工作
 5. 连接微信上的webview前，确保其已开启webview调试模式
+6. demo只支持在windows下运行, 不支持linux
 
 
 # 开始
